@@ -6,9 +6,11 @@ MATLAB:
   - Symbolic Math Toolbox
   - Optimization Toolbox
 
-MPT: Multi-Parametric Toolbox 3
+YALMIP (https://yalmip.github.io)
 
-YALMIP
+MPT: Multi-Parametric Toolbox 3 (http://control.ee.ethz.ch/~mpt/3/Main/HomePage)
+
+_Recommend to use tbxmanager (http://www.tbxmanager.com) to install MPT and YALMIP_
 
 # Note
 The toolbox is under active development.
